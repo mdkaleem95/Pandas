@@ -2,7 +2,7 @@
 A practical collection of Pandas data transformation techniques Covers data loading, inspection, data cleaning, missing value handling, duplicate removal, filtering, sorting, column transformations, grouping, aggregation, merging, joining, pivot tables, date operations, and exporting transformed datasets. Built to develop hands-on data manipulation skills for Data Engineering and Data Science workflows.
 
 
-# 3. Concepts included in this single file No.	
+# Concepts included in this single file No.	
 # Pandas topic	---- Operations
 1	Data loading ----	read_csv()
 2	Data inspection ----	info(), describe(), shape
